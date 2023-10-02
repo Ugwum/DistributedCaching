@@ -16,7 +16,7 @@ To use this distributed caching system in your C# application, follow these step
 
 
    ```bash
-	git clone https://github.com/your-username/distributed-caching.git
+	git clone https://github.com/Ugwum/DistributedCaching.git
 2. **Include the necessary files (ConsistentHash.cs, IDistributedCache.cs, SimpleDistributedCache.cs, AdvancedDistributedCache.cs) in your project.**
 
 3. **Create instances of the caching classes (SimpleDistributedCache or AdvancedDistributedCache) and use them to cache and retrieve data.**
